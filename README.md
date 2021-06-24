@@ -16,4 +16,4 @@ Utilizando os princípios de orientação a objetos, essa aplicação busca emul
     </ul>
 </p>
 
-[![Watch the video](https://user-images.githubusercontent.com/69210720/123317517-7e457a00-d504-11eb-9652-3a58eea22491.png)](https://user-images.githubusercontent.com/69210720/123316530-51449780-d503-11eb-954d-f726c74ebea8.mp4)
+[![Watch the video](https://user-images.githubusercontent.com/69210720/123317517-7e457a00-d504-11eb-9652-3a58eea22491.png)](https://user-images.githubusercontent.com/69210720/123318095-396e1300-d505-11eb-8d04-d92b47238d4c.mp4)
