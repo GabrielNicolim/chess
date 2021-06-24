@@ -14,6 +14,6 @@ Utilizando os princípios de orientação a objetos, essa aplicação busca emul
         <li>Chamar o console</li>
         <li>Executar o arquivo Program dentro a pasta application</li>
     </ul>
-    <br>
-    <iframe width="100%" src="https://user-images.githubusercontent.com/69210720/123316530-51449780-d503-11eb-954d-f726c74ebea8.mp4" frameborder="0" allow="autoplay;"></iframe>
 </p>
+
+[![Watch the video](https://user-images.githubusercontent.com/69210720/123317517-7e457a00-d504-11eb-9652-3a58eea22491.png)](https://user-images.githubusercontent.com/69210720/123316530-51449780-d503-11eb-954d-f726c74ebea8.mp4)
